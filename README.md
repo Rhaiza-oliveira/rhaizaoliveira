@@ -58,6 +58,9 @@ Até o momento, conhecimento básico em:
 <p align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhaiza-oliveira&show_icons=true&theme=tokyonight)
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaiza-oliveira&layout=compact&langs_count&theme=tokyonight)
 
 </p>
 
