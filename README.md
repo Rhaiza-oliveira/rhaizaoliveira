@@ -41,16 +41,20 @@ Até o momento, conhecimento básico em:
 <br>
 💻 Cursos | FrontEnd - DIO
 
+<p align="center">
 |Curso                       |Certificado          |
 |----------------------------|---------------------|
 |Formação HTML Web Developer |[HTML](https://hermes.dio.me/certificates/DB100098.pdf)
 |Formação CSS Web developer  |[CSS](https://hermes.dio.me/certificates/69CAE7BE.pdf)
+</p>
 
 <br>
 <br>
 <br>
 
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhaiza-oliveira&show_icons=true&theme=tokyonight)
+</p>
 
 -------
 
