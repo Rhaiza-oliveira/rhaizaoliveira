@@ -21,19 +21,35 @@
 
 # Minhas Tecnologias
 
-- Cursos diversos | FrontEnd - DIO
+<br>
 
 
 Até o momento, conhecimento básico em:
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="70px" />
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="70px"/> -->
 
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![B](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br>
+<br>
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhaoliver&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-----
+<br>
+💻 Cursos | FrontEnd - DIO
+
+|Curso                       |Certificado          |
+|----------------------------|---------------------|
+|Formação HTML Web Developer |[HTML](https://hermes.dio.me/certificates/DB100098.pdf)
+|Formação CSS Web developer  |[CSS](https://hermes.dio.me/certificates/69CAE7BE.pdf)
+
+<br>
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhaiza-oliveira&show_icons=true&theme=tokyonight)
 
 -------
 
